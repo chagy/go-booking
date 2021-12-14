@@ -6,9 +6,9 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/chagy/go-booking/pkg/config"
-	"github.com/chagy/go-booking/pkg/models"
-	"github.com/chagy/go-booking/pkg/render"
+	"github.com/chagy/go-booking/internal/config"
+	"github.com/chagy/go-booking/internal/models"
+	"github.com/chagy/go-booking/internal/render"
 )
 
 var Repo *Repository
