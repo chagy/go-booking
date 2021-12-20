@@ -1,0 +1,2 @@
+INSERT INTO "public"."room_restrictions"("id", "start_date", "end_date", "room_id", "reservation_id", "restriction_id", "created_at", "updated_at") VALUES (1, '2021-12-21', '2021-12-22', 1, 4, 1, '2021-12-20 10:34:01.028793', '2021-12-20 10:34:01.028793');
+INSERT INTO "public"."room_restrictions"("id", "start_date", "end_date", "room_id", "reservation_id", "restriction_id", "created_at", "updated_at") VALUES (5, '2021-12-21', '2021-12-22', 2, 4, 1, '2021-12-20 13:51:12', '2021-12-20 13:51:15');
